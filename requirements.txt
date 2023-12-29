@@ -1,0 +1,10 @@
+pandas
+numpy
+numba
+yfinance
+scikit-learn
+ta
+pyswarms
+bokeh
+pygraphviz
+deap == 1.4.1
